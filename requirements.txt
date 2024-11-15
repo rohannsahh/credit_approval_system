@@ -1,6 +1,9 @@
-Django>=4.0
+Django
 djangorestframework
 django-environ
 psycopg2-binary
 celery
 django-redis
+pandas
+environ
+
