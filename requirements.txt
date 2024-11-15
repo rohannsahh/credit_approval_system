@@ -1,0 +1,6 @@
+Django>=4.0
+djangorestframework
+django-environ
+psycopg2-binary
+celery
+django-redis
