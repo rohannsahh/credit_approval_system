@@ -6,4 +6,5 @@ celery
 django-redis
 pandas
 environ
+openpyxl
 
